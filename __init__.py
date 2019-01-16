@@ -40,7 +40,7 @@ class TodaySkill(MycroftSkill):
             output=json_output['data']
             events=output["Events"]
 
-            self.speak_dialog("Today in history event {} occured".format(events[0]['text']))
+            self.speak_dialog("Today")
 
 
     def stop(self):
