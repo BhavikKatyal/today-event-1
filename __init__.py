@@ -48,4 +48,4 @@ class TodaySkill(MycroftSkill):
 
 
 def create_skill():
-    return HelloWorldSkill()
+    return TodaySkill()
