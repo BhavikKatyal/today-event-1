@@ -1,0 +1,7 @@
+{
+  "utterance": "today event",
+  "intent_type": "TodayEventIntent",
+  "intent": {
+    "TodayEventKeyword": "today event"
+  }
+}
